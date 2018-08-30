@@ -12,4 +12,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [Higher Order React Components](http://natpryce.com/articles/000814.html)
 
+## Redux
+
+[Side effects management with Redux-Saga (part 1)](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-1-d0a92c3f81be)
+
 
