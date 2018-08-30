@@ -9,6 +9,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
 
+[The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+
 ## React
 
 [Higher Order React Components](http://natpryce.com/articles/000814.html)
