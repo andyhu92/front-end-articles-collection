@@ -11,6 +11,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
+[10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
+
 ## React
 
 [Higher Order React Components](http://natpryce.com/articles/000814.html)
