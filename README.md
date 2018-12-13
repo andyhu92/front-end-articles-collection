@@ -17,6 +17,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [Understand Partial in TS](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 
+[React DefaultProps](https://medium.com/@martin_hotell/react-typescript-and-defaultprops-dilemma-ca7f81c661c7)
+
 ## React
 
 [Higher Order React Components](http://natpryce.com/articles/000814.html)
