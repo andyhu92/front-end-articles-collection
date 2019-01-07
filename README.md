@@ -25,6 +25,9 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [Stateless Component vs Pure Component](https://medium.com/groww-engineering/stateless-component-vs-pure-component-d2af88a1200b)
 
+## React Native
+[React Native: What it is and how it works](https://medium.com/we-talk-it/react-native-what-it-is-and-how-it-works-e2182d008f5e)
+
 ## Redux
 
 [Side effects management with Redux-Saga (part 1)](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-1-d0a92c3f81be)
