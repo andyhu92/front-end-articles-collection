@@ -29,6 +29,8 @@ Collection of articles I found helpful. Feel free to send PR.
 [React Native: What it is and how it works](https://medium.com/we-talk-it/react-native-what-it-is-and-how-it-works-e2182d008f5e)
 
 [5 Best Practices for React-Native Development](https://medium.com/skyshidigital/5-best-practices-for-react-native-development-you-probably-doesnt-know-474df87d74e6)
+
+[Tips for React Native Images](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d)
 ## Redux
 
 [Side effects management with Redux-Saga (part 1)](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-1-d0a92c3f81be)
