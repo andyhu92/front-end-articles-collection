@@ -35,4 +35,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [Side effects management with Redux-Saga (part 1)](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-1-d0a92c3f81be)
 
+## Performance
+
+[Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#section:dns-prefetching)
+
 
