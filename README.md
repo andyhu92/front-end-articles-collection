@@ -1,6 +1,10 @@
 # Front-end-articles-collection
 Collection of articles I found helpful. Feel free to send PR.
 
+## Web stuff
+[What’s the difference between a base domain and full path URL?](https://zvelo.com/base-domain-url-vs-full-path-url-whats-the-difference/)
+[The Anatomy of a Full Path URL](https://zvelo.com/anatomy-of-full-path-url-hostname-protocol-path-more/)
+
 ## JavaScript
 
 [Understanding JS: The Event Loop](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
