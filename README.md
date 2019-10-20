@@ -18,6 +18,8 @@ Collection of articles I found helpful. Feel free to send PR.
 
 [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a)
 
+[How to fix nasty circular dependency issues once and for all in JavaScript & TypeScript](https://medium.com/visual-development/how-to-fix-nasty-circular-dependency-issues-once-and-for-all-in-javascript-typescript-a04c987cf0de)
+
 ## TypeScript
 
 [Understand Partial in TS](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
