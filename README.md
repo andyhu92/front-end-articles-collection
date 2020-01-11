@@ -47,3 +47,6 @@ Collection of articles I found helpful. Feel free to send PR.
 [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#section:dns-prefetching)
 
 
+## Misc (Todo: cover not only front-end articles in this repo)
+
+[How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
